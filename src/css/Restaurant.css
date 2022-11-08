@@ -1,0 +1,50 @@
+.restaurant .btn-add-res {
+    margin: 25px 600px;
+}
+
+.grid-container {
+    display: grid;
+    gap: 50px 50px;
+    grid-template-columns: 460px 460px 460px ;
+    padding: 10px;
+}
+
+.grid-item {
+    background-color: rgba(53, 74, 7, 0.418);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.btn-add-res {
+    background: red;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 100px;
+    border-radius: 8px;
+}
+
+.btn-delete-res {
+    background: red;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 100px;
+    border-radius: 8px;
+}
+
+.addRes a {
+    text-decoration: none;
+    display: block;
+    width: 250px;
+    height: 30px;
+    background: #00acee;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}

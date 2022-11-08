@@ -1,0 +1,52 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "King & Queen",
+      "place": "Lucknow",
+      "famous": "Biryani"
+    },
+    {
+      "id": 2,
+      "name": "King & Queen",
+      "place": "Lucknow",
+      "famous": "Biryani"
+    },
+    {
+      "id": 3,
+      "name": "King & Queen",
+      "place": "Lucknow",
+      "famous": "Biryani"
+    },
+    {
+      "name": "Branden Kelly",
+      "place": "Dai Garza",
+      "famous": "Jaden Mathis",
+      "id": 4
+    },
+    {
+      "name": "King",
+      "place": "Banagalore",
+      "famous": "Kaadu's Shambhar",
+      "id": 7
+    },
+    {
+      "name": "Iola Powers",
+      "place": "Tanisha Tillman",
+      "famous": "Quamar Hubbard",
+      "id": 8
+    },
+    {
+      "name": "Kuame Alvarado",
+      "place": "Vernon Brown",
+      "famous": "Rama Colon",
+      "id": 9
+    },
+    {
+      "name": "Howard Saunders",
+      "place": "Dillon Sutton",
+      "famous": "Rinah Howard",
+      "id": 10
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "King & Queen",
+      "place": "Lucknow",
+      "famous": "Biryani"
+    },
+    {
+      "id": 2,
+      "name": "King & Queen",
+      "place": "Lucknow",
+      "famous": "Biryani"
+    },
+    {
+      "id": 3,
+      "name": "King & Queen",
+      "place": "Lucknow",
+      "famous": "Biryani"
+    },
+    {
+      "name": "Branden Kelly",
+      "place": "Dai Garza",
+      "famous": "Jaden Mathis",
+      "id": 4
+    },
+    {
+      "name": "ll",
+      "place": "mm",
+      "famous": "nn",
+      "id": 5
+    },
+    {
+      "name": "njknbkj",
+      "place": "nbkj",
+      "famous": "bkjbnjk",
+      "id": 6
+    }
+  ]
+}
